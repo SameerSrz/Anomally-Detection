@@ -24,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/anomaly-detection.git
+git clone https://github.com/SameerSrz/Anomally-Detection.git
 cd anomaly-detection
 Install dependencies:
 
@@ -53,7 +53,7 @@ Configure hyperparameters and model layers in train.py.
 Deployment
 To deploy this anomaly detection system as a web application:
 
-Run Flask Server:
+Run Django Server:
 bash
 Copy code
 python app.py
